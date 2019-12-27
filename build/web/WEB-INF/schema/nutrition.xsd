@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xsd:schema version="1.0"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://vansu.vn/"
+            xmlns="http://vansu.vn/"
+            elementFormDefault="qualified">
+
+    <xsd:element name="nutritions" type="nutritionType"/>
+    <xsd:complexType name="nutritionType">
+        <xsd:sequence>
+            <xsd:element name="nutrition" type="ingredientType" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="ingredientType">
+        <xsd:sequence>
+            <xsd:element name="nutriGroup" type="xsd:string"/>
+            <xsd:element name="calculatedPer" type="xsd:decimal" default="100"/>
+            <xsd:element name="nutriName" type="xsd:string"/>
+            <xsd:element name="energyAmount" type="xsd:decimal"/>
+            <xsd:element name="energyUnit" type="xsd:string"/>
+            <xsd:element name="nutritionValues" type="nutritionValueType"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="nutritionValueType">
+        <xsd:sequence>
+            <xsd:element name="nutritionValue" type="nutritionValuesType" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="nutritionValuesType">
+        <xsd:sequence>
+            <xsd:element name="valueName" type="xsd:string"/>
+            <xsd:element name="amount" type="xsd:decimal" default="0"/>
+            <xsd:element name="unit" type="xsd:string"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>

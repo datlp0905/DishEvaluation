@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta property="fb:app_id" content="1869828126592658" />
+        <meta property="og:locale" content="vi_VN" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+        <title></title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="stylesheet" type="text/css" href="/libraries/semantic-ui/semantic.min.css">
+        <link rel="stylesheet" type="text/css" href="/public/css/common.css">
+                        <script src="/libraries/jquery/jquery-3.1.1.min.js"></script>
+        <script src="/libraries/semantic-ui/semantic.min.js"></script>
+        <script src="/public/js/common.js"></script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({
+                google_ad_client: "ca-pub-3074104551864374",
+                enable_page_level_ads: true
+            });
+        </script>
+    </head>
+    <body>
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1869828126592658";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+        <div class="ui container">
+
+    <div class="ui grid">
+
+        <div class="sixteen wide mobile eight wide tablet four wide computer column">
+            <div class="ui card centered fluid">
+                <div class="content">
+                    <div class="header">Tính lương</div>
+                </div>
+                <div class="content">
+                    <div class="description">Tính phí bảo hiểm, thuế thu nhập cá nhân, chuyển lương Gross sang NET và ngược lại</div>
+                </div>
+                <div class="extra content">
+                    <div class="right floated">
+                        <a class="mini ui button green" href="/tinh-luong">
+                            Truy cập
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sixteen wide mobile eight wide tablet four wide computer column">
+            <div class="ui card centered fluid">
+                <div class="content">
+                    <div class="header">Dinh dưỡng</div>
+                </div>
+                <div class="content">
+                    <div class="description">
+                        Tính chỉ số cơ thể và nhu cầu năng lượng trong ngày, thành phần dinh dưỡng của một số thực phẩm việt...
+                    </div>
+                </div>
+                <div class="extra content">
+                    <div class="right floated">
+                        <div class="mini ui green buttons">
+                            <div class="ui floating dropdown icon button">
+                                Truy cập &nbsp;&nbsp;<i class="dropdown icon"></i>
+                                <div class="menu">
+                                    <a class="item" href="/dinh-duong/tinh-chi-so-co-the">Tính chỉ số cơ thể, nhu cầu năng lượng</a>
+<a class="item" href="/dinh-duong/tinh-nang-luong-cac-chat-trong-bua-an">Tính năng lượng trong khẩu phần ăn</a>
+<a class="item" href="/dinh-duong/bang-can-nang-chieu-cao-theo-tuoi">Bảng cân nặng và chiều cao theo tuổi</a>
+<a class="item" href="/dinh-duong/cach-danh-gia-chi-so-co-the">Cách đánh giá mức độ gầy béo</a>
+<a class="item" href="/dinh-duong/khai-quat-chung-ve-dinh-duong">Khái quát chung về dinh dưỡng</a>
+<a class="item" href="/dinh-duong/bang-thanh-phan-dinh-duong-thuc-pham">Bảng thành phần dinh dưỡng</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sixteen wide mobile eight wide tablet four wide computer column">
+            <div class="ui card centered fluid">
+                <div class="content">
+                    <div class="header">Việt Nam</div>
+                </div>
+                <div class="content">
+                    <div class="description">
+                        Sơ lược lịch sử Việt Nam, các nhân vật trong các thời kì...
+                        <br/>
+                        <br/>
+                    </div>
+                </div>
+                <div class="extra content">
+                    <div class="right floated">
+                        <div class="mini ui green buttons">
+                            <div class="ui floating dropdown icon button">
+                                Truy cập &nbsp;&nbsp;<i class="dropdown icon"></i>
+                                <div class="menu">
+                                    <a class="item" href="/viet-nam/nien-bieu-lich-su">Niên biểu lịch sử</a>
+<a class="item" href="/viet-nam/viet-nam-su-luoc">Việt Nam sử lược</a>
+<a class="item" href="/viet-nam/viet-nam-nhan-vat">Nhân vât lịch sử</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+    <script>
+        $(function() {
+            $('.dropdown')
+                    .dropdown({
+                        action: 'hide'
+                    })
+            ;
+        });
+    </script>
+        <p></p>
+        <div id="vs_modal_number_one" class="ui small modal">
+            <i class="close icon"></i>
+            <div class="header"></div>
+            <div class="content"></div>
+        </div>
+        <div style="position: fixed; bottom: 0px; z-index: 9999999; display: none;" id="vs_modal_number_one_close">
+            <div class="bottom attached positive big ui button" onclick="$('#vs_modal_number_one_close').hide(); $('#vs_modal_number_one').modal('hide');">
+                Đóng
+            </div>
+        </div>
+            <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-103910990-1', 'auto');
+        ga('send', 'pageview', window.location.href);
+    </script>
+    </body>
+</html>

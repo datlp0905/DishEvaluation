@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Gợi ý món ăn theo nhu cầu dinh dưỡng</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="resources/css/dish-suggetion.css"/>
+        <script src="resources/js/dish-suggestion.js"></script>
+    </head>
+    <body onload="getConstanstFromServer()">
+        <div class="topnav">
+            <a class="active" href="index.html">
+                <div id="logo">
+                    <img src="resources/img/logo.png" alt="Logo" class="logo"/>
+                </div>
+            </a>
+            <a href="dish-suggestion.html">Gợi ý món ăn theo nhu cầu dinh dưỡng</a>
+        </div>
+        <div class="container">
+            <div id="form">
+                <label>Cân nặng</label>
+                <input type="text" id="txtWeight" name="weight" placeholder="Cân nặng (kg)..">
+
+                <label>Chiều cao</label>
+                <input type="text" id="txtHeight" name="height" placeholder="Chiều cao (cm)..">
+
+                <label>Tuổi</label>
+                <input type="text" id="txtAge" name="age" placeholder="Tuổi..">
+
+                <label>Mức vận động</label>
+                <select id="cbLevelOfWork" name="cbLevelOfWork">
+                </select>
+
+                <label>Nam
+                    <input type="radio" checked="checked" name="rdGender" value="male">
+                </label>
+                <label>Nữ
+                    <input type="radio" name="rdGender" value="female">
+                </label><br/>
+
+                <input type="submit" value="Tính calo" onclick="computeEnergy()">
+                <div class="more-calo-info">
+                    <h4>Bạn cần <span id="calo-need">...</span> calo để duy trì cân nặng hằng ngày</h4>
+
+                    <label>Bạn có nhu cầu</label>
+                    <select id="need" name="cbNeed">
+                    </select>
+
+                    <label>Số lượng món bạn muốn trong 1 bữa ăn</label>
+                    <select id="numberOfDishes">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                    </select>
+
+                    <input type="submit" value="Tìm gợi ý" onclick="getSuggestion()">
+                </div>
+            </div>
+            <div style="text-align: center; display: none"  id="h1-dish-info">
+                <h1>
+                    Để <span id="user-need"></span> bạn cần tiêu thụ <span id="user-need-calo"></span> hằng ngày
+                </h1>
+                <p>
+                    Hãy chọn <span id="span-number-of-dish"></span> món trong các món dưới đây vào thực đơn hằng ngày của bạn
+                </p>
+            </div>
+            <div id="dishes">
+
+                <a href="#">
+                    <div style="margin-left: 50vh; margin-top: 10vh;">
+                        <div>
+                            <img src="resources/img/logo.png" alt="Dish"/>
+                        </div>
+                    </div>
+                </a>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <!-- The Modal -->
+        <div id="dish-detail" class="modal">
+
+            <!-- Modal content -->
+            <div class="detail-content">
+                <span class="close">&times;</span>
+                <div id="detail-img-container">
+                    <div id="detail-img">
+                        <img src="resources/img/food.jpg" alt="Test"/>
+                    </div>
+                    <div id="detail-icon">
+                        <img src="resources/img/chef.svg" class="dish-icon" alt="level"/><span></span>
+                        <img src="resources/img/multiple-users-silhouette.svg" class="dish-icon" alt="level"/><span></span>
+                        <img src="resources/img/clock.svg" class="dish-icon" alt="level"/><span></span>
+                    </div>
+                </div>
+                <div id="detail-info">
+                    <div id="detail-name">
+                        <h3></h3>
+                    </div>
+                    <div id="detail-description"></div>
+
+                    <div id="detail-ingredient">
+                        <h4>Nguyên liệu</h4>
+                        <table id="table-ingredient">
+
+                        </table>
+                        <br/>
+                        <a href="#" id="detail-link">Tham khảo cách làm tại đây</a>
+                    </div>
+                </div>
+                <div id="detail-nutrition">
+                    <h3>Thông tin dinh dưỡng</h3>
+                    <!--<h4>Năng lượng <span id="detail-energy">1000</span> calo</h4>-->
+                    <table id="table-nutrition">
+                        <!--                        <tr>
+                                                    <td>Canxi</td>
+                                                    <td>100g</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Canxi</td>
+                                                    <td>100g</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Canxi</td>
+                                                    <td>100g</td>
+                                                </tr>-->
+                    </table>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+        </div>
+    </body>
+</html>

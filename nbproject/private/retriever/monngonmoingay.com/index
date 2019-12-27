@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:og="https://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Language" content="vi">
+<meta name="Language" content="vi">
+<meta name="author" content="Món ngon mỗi ngày">
+<link rel="shortcut icon" href="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/logo/favicon.ico" type="image/x-icon" />
+<title>Món ngon mỗi ngày, Các món ăn hàng ngày - Ajinomoto</title>
+<meta property="og:site_name" content="Món Ngon Mỗi Ngày" />
+<meta property="og:description" content="Món ngon trong tích tắc" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/default.png" />
+<!-- All in One SEO Pack Pro 2.4.15.3.1 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<!-- Debug String: MAQQMKSIBFQTVXOM+WVZPCZZ91W -->
+<meta name="description"  content="Website chính thức của Chương trình Món Ngon Mỗi Ngày - Từ Ajinomoto Việt Nam - Phát sóng hàng ngày trên HTV7, DVTV – Hướng dẫn nấu các món ăn ngon hàng ngày" />
+
+<meta name="keywords"  content="mon ngon moi ngay, mon ngon, ajinomoto, mon an hang ngay, cac mon an hang ngay,mon an ngon,nau an gia dinh,nau an ngon" />
+
+<link rel="canonical" href="https://monngonmoingay.com/" />
+<!-- /all in one seo pack pro -->
+<link rel='dns-prefetch' href='//www.google.com' />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://monngonmoingay.com/wp-content/plugins/gutenberg/build/block-library/style.css?ver=1573875650' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><link rel='https://api.w.org/' href='https://monngonmoingay.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://monngonmoingay.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://monngonmoingay.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3" />
+<script id="wpcp_disable_selection" type="text/javascript">
+//<![CDATA[
+var image_save_msg='You Can Not Save images!';
+	var no_menu_msg='Context Menu disabled!';
+	var smessage = "";
+
+function disableEnterKey(e)
+{
+	if (e.ctrlKey){
+     var key;
+     if(window.event)
+          key = window.event.keyCode;     //IE
+     else
+          key = e.which;     //firefox (97)
+    //if (key != 17) alert(key);
+     if (key == 97 || key == 65 || key == 67 || key == 99 || key == 88 || key == 120 || key == 26 || key == 85  || key == 86 || key == 83 || key == 43)
+     {
+          show_wpcp_message('You are not allowed to copy content or view source');
+          return false;
+     }else
+     	return true;
+     }
+}
+
+function disable_copy(e)
+{	
+	var elemtype = e.target.nodeName;
+	var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+	elemtype = elemtype.toUpperCase();
+	var checker_IMG = '';
+	if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail >= 2) {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED")
+	{
+		if (smessage !== "" && e.detail == 2)
+			show_wpcp_message(smessage);
+		
+		if (isSafari)
+			return true;
+		else
+			return false;
+	}	
+}
+function disable_copy_ie()
+{
+	var elemtype = window.event.srcElement.nodeName;
+	elemtype = elemtype.toUpperCase();
+	if (elemtype == "IMG") {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED")
+	{
+		//alert(navigator.userAgent.indexOf('MSIE'));
+			//if (smessage !== "") show_wpcp_message(smessage);
+		return false;
+	}
+}	
+function reEnable()
+{
+	return true;
+}
+document.onkeydown = disableEnterKey;
+document.onselectstart = disable_copy_ie;
+if(navigator.userAgent.indexOf('MSIE')==-1)
+{
+	document.onmousedown = disable_copy;
+	document.onclick = reEnable;
+}
+function disableSelection(target)
+{
+    //For IE This code will work
+    if (typeof target.onselectstart!="undefined")
+    target.onselectstart = disable_copy_ie;
+    
+    //For Firefox This code will work
+    else if (typeof target.style.MozUserSelect!="undefined")
+    {target.style.MozUserSelect="none";}
+    
+    //All other  (ie: Opera) This code will work
+    else
+    target.onmousedown=function(){return false}
+    target.style.cursor = "default";
+}
+//Calling the JS function directly just after body load
+window.onload = function(){disableSelection(document.body);};
+//]]>
+</script>
+	<script id="wpcp_disable_Right_Click" type="text/javascript">
+	//<![CDATA[
+	document.ondragstart = function() { return false;}
+	/* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Disable context menu on images by GreenLava Version 1.0
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+	    function nocontext(e) {
+	       return false;
+	    }
+	    document.oncontextmenu = nocontext;
+	//]]>
+	</script>
+<style>
+.unselectable
+{
+-moz-user-select:none;
+-webkit-user-select:none;
+cursor: default;
+}
+html
+{
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+</style>
+<script id="wpcp_css_disable_selection" type="text/javascript">
+var e = document.getElementsByTagName('body')[0];
+if(e)
+{
+	e.setAttribute('unselectable',on);
+}
+</script>
+    <style>
+        .wpsp_arrow_pagi{
+            cursor: pointer;
+        }
+    </style>
+
+    <noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><script>
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+(function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
+var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
+return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
+if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
+setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
+var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
+if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
+else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
+</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="robots" content="index, follow">
+<meta name="geo.region" content="VN" />
+<meta name="geo.position" content="10.790581;106.70534" />
+<meta name="ICBM" content="10.790581, 106.70534" />
+<meta name="google-site-verification" content="crM3tzGtbxLejbHoGoYxULMIkNF-PGeQn77zwhJP4s4" />
+<meta name="google-site-verification" content="ElC-7F1AC7JP90ScNO8sq2aJ7_bmdogrdiXqOdikt8c" />
+<!--Favicon image-->
+
+<link rel="apple-touch-icon" href="" />
+<link rel="apple-touch-icon" sizes="72x72" href="" />
+<link rel="apple-touch-icon" sizes="114x114" href="" />
+<link rel="apple-touch-icon" sizes="114x114" href="" />
+<script type="text/javascript"  src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/jquery-1.11.1.min.js"></script>
+<!-- Bootstrap core CSS -->
+<link rel="stylesheet" href="https://monngonmoingay.com/wp-content/themes/monngonmoingay/bootstrap/css/bootstrap.min.css" />      
+<link rel="stylesheet" href="https://monngonmoingay.com/wp-content/themes/monngonmoingay/css/styles.min.css?r=1" />
+<!-- start mobile -->
+<!-- end mobile -->
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/html5shiv.min.js"></script>
+  <script src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-31833589-1', 'auto');
+	ga('send', 'pageview');
+
+	function evt(category, action, label){
+		ga('send', 'event', category, action, label);
+		console.log("Category: '" + category + "' action: '" + action + "' label: '" + label + "'");
+	}
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '677242322367022');
+  fbq('track', 'PageView');
+  </script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=677242322367022&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W5WRK64');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body data-rsssl=1 itemscope itemtype="https://schema.org/WebPage">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5WRK64"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --> 
+<div id="fb-root"></div>
+<div id="page-loading" class="hide-loading">
+	<div id="loading-icon"></div>
+</div>
+<script>
+var PATH_URL = 'https://monngonmoingay.com';
+var TEMPLATE_URL = 'https://monngonmoingay.com/wp-content/themes/monngonmoingay';
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : 418392225210932,
+      xfbml      : true,
+      version    : 'v2.4'
+    });
+  };
+
+  	(function(d, s, id){
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+   	}(document, 'script', 'facebook-jssdk'));
+
+  	function onShare(type, ele, url) {
+	    var left = (screen.width / 2) - (600 / 2);
+	    var top = (screen.height / 2) - (600 / 2);
+	    window.open($(ele).data('href') + url, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600,left=' + left + ',top=' + top);
+	    return false;
+	};
+</script>
+<div class="screen_container">
+	<a id="mailto" style="display:none" href="">send mail</a>
+		<div class="header">
+		<div class="container-fluid">
+			<div class="container">
+				<div class="row">
+					<a class="home_logo01 col-lg-1 col-md-1 col-sm-4 col-xs-4 col-lg-push-0 col-md-push-0 col-sm-push-1 col-xs-push-1" href="https://monngonmoingay.com"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-logo01.png" alt="Món ngon mỗi ngày, ajinomoto"></a>
+					<p class="home_slogan col-lg-8 col-md-8 col-sm-8 col-xs-8  col-lg-push-0 col-md-push-0 col-sm-push-1 col-xs-push-1">
+						<img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-slogan01.png" alt="Món ngon trong tích tắc"><br>
+						<span class="visible-md-block visible-lg-block"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-slogan02.png" alt="Chào mừng bạn đến với website chính thức của chương trình Món Ngon Mỗi Ngày"></span>
+					</p>
+					<p class="home_logo02 col-lg-2 col-md-2 col-sm-5 col-xs-5 col-lg-push-1 col-md-push-1"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/logo-ajinomoto.png" alt="logo, mon ngon moi ngay"></p>
+					<button class="nav_trigger smp" type="button"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/nav-trigger.png" alt="menu mobile"></button>
+					<nav id="global_menu">
+						<div class="nav_close smp"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/nav-close.png" alt="icon"></div>
+						<ul class="menu clearfix">
+							<li id="menu-item-57" class="link line01 pc menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home"><a rel='dofollow' href="https://monngonmoingay.com/" class="active">Trang chủ</a></li><li id="menu-item-26" class="link line02 pc menu-item menu-item-type-post_type menu-item-object-page"><a rel='dofollow' title="Tìm kiếm món ngon" href="https://monngonmoingay.com/tim-kiem-mon-ngon/">Tìm kiếm<br />món ngon</a></li><li id="menu-item-1375" class="link line01 smp menu-item menu-item-type-post_type menu-item-object-page"><a rel='dofollow' href="https://monngonmoingay.com/tim-kiem-mon-ngon/">Tìm kiếm món ngon</a></li><li id="menu-item-501" class="link line02 menu-item menu-item-type-taxonomy menu-item-object-danh-muc-thong-tin-huu-ich"><a rel='dofollow' title="Thông Tin Hữu Ích" href="https://monngonmoingay.com/danh-muc-thong-tin-huu-ich/thong-tin-mon-ngon-moi-ngay/">Thông Tin<br /> Hữu Ích</a></li><li id="menu-item-504" class="link line01 menu-item menu-item-type-taxonomy menu-item-object-danh-muc-gia-vi-ban-can"><a rel='dofollow' href="https://monngonmoingay.com/danh-muc-gia-vi-ban-can/bot-ngot-aji-no-moto/">Gia vị bạn cần</a></li><li id="menu-item-34031" class="link line01 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a rel='dofollow' title="Món ngon mỗi ngày và bạn" href="http://toasangtainang.monngonmoingay.com/">MNMN &#038; Bạn</a><div class="sub-mn"><ul><li id="menu-item-29212" class=" menu-item menu-item-type-custom menu-item-object-custom"><a rel='dofollow' title="rel=nofollow" href="http://toasangtainang.monngonmoingay.com/">Tỏa sáng tài năng</a></li><li id="menu-item-16832" class="hidden menu-item menu-item-type-post_type menu-item-object-page"><a rel='dofollow' href="https://monngonmoingay.com/mon-ngon-moi-ngay-va-ban/">Món ngon mỗi ngày và bạn</a></li><li id="menu-item-5606" class="hidden menu-item menu-item-type-custom menu-item-object-custom"><a rel='dofollow' href="https://monngonmoingay.com/mon-ngon-moi-ngay-va-ban/">Tỏa sáng tài năng 2015</a></li><li id="menu-item-5607" class=" menu-item menu-item-type-custom menu-item-object-custom"><a rel='dofollow' title="rel=nofollow" href="http://cuocthi2013.monngonmoingay.com/index.php">Cuộc thi trực tuyến 2013</a></li><li id="menu-item-5608" class=" menu-item menu-item-type-custom menu-item-object-custom"><a rel='dofollow' href="https://monngonmoingay.com/mnmn-va-ban/album-anh.html">Album ảnh</a></li><li id="menu-item-5609" class=" menu-item menu-item-type-custom menu-item-object-custom"><a rel='dofollow' href="https://monngonmoingay.com/cuocthi/tro-tai-voi-mon-ngon-moi-ngay.html">Cuộc thi trực tuyến 2012</a></li></ul></div></li><li id="menu-item-1380" class="link line01 hidden menu-item menu-item-type-post_type menu-item-object-page"><a rel='dofollow' title="Món ngon mỗi ngày và bạn" href="https://monngonmoingay.com/mon-ngon-moi-ngay-va-ban/">MNMN &#038; Bạn</a></li><li id="menu-item-995" class="link line01 dl_mobile menu-item menu-item-type-taxonomy menu-item-object-danh-muc-gioi-thieu"><a rel='dofollow' title="Về MNMN" href="https://monngonmoingay.com/danh-muc-gioi-thieu/ve-mon-ngon-moi-ngay/">Về Món ngon mỗi ngày</a></li><li id="menu-item-996" class="link line01 dl_mobile menu-item menu-item-type-taxonomy menu-item-object-danh-muc-gioi-thieu"><a rel='dofollow' href="https://monngonmoingay.com/danh-muc-gioi-thieu/ve-ajinomoto/">Về Ajinomoto</a></li><li id="menu-item-991" class="link line01 dl_mobile menu-item menu-item-type-post_type menu-item-object-page"><a rel='dofollow' href="https://monngonmoingay.com/dieu-khoan-su-dung/">Điều khoản sử dụng</a></li><li id="menu-item-992" class="link line01 dl_mobile menu-item menu-item-type-post_type menu-item-object-page"><a rel='dofollow' href="https://monngonmoingay.com/lich-phat-song/">Lịch phát sóng</a></li><li id="menu-item-993" class="link line01 dl_mobile menu-item menu-item-type-post_type menu-item-object-page"><a rel='dofollow' href="https://monngonmoingay.com/hoi-dap/">Hỏi đáp</a></li><li id="menu-item-994" class="link line01 dl_mobile menu-item menu-item-type-post_type menu-item-object-page"><a rel='dofollow' href="https://monngonmoingay.com/lien-he/">Liên hệ</a></li>						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="main_container">
+		<div class="container-fluid">
+		<div class="container">
+		<div class="row">
+			<div class="search_box col-lg-8 col-md-8 col-sm-12 col-xs-12 col-lg-push-4 col-md-push-4">
+				<div class="text_search"><span class="title_slide">Tìm công thức tại đây</span></div> 
+				<p class="search_input"><input class="suggest-food" type="text" value="" placeholder="NHẬP TÊN CÔNG THỨC MÓN ĂN - NGUYÊN LIỆU"><button id="btn-search" onclick="evt('button', 'click+search', 'click+search');searchModule.submitSearchBasic();" type="submit"><img class="img-responsive" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-search.png" alt="tim kiem mon an"></button></p>
+				<p class="search_more"><a href="#search_more_panel">TÌM KIẾM THEO NGUYÊN LIỆU - CÁCH NẤU - DỊP NẤU</a></p>
+				<div class="search_more_panel jqtransform">
+					<div class="food_group_menu nguyenlieu">
+												<div class="col01">
+							<h2>NGUYÊN LIỆU</h2>
+						</div>
+										<div class="col02">
+						<h3>Thịt</h3>
+						<ul>
+													<li><input data-name="mon-ngon-tu-thit-heo" id="chkb01" type="checkbox" value="1"><label for="chkb01" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+thit+heo')">Thịt heo</label></li>
+													<li><input data-name="mon-ngon-tu-thit-ga" id="chkb02" type="checkbox" value="2"><label for="chkb02" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+thit+ga')">Thịt gà</label></li>
+													<li><input data-name="mon-ngon-tu-thit-bo" id="chkb03" type="checkbox" value="4"><label for="chkb03" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+thit+bo')">Thịt bò</label></li>
+													<li><input data-name="thit-khac" id="chkb04" type="checkbox" value="8"><label for="chkb04" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+thit+khac')">Khác</label></li>
+												</ul>
+					</div>
+										<div class="col03">
+						<h3>Hải sản</h3>
+						<ul>
+													<li><input data-name="mon-ngon-tu-ca" id="chkb05" type="checkbox" value="16"><label for="chkb05" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+ca')">Cá</label></li>
+													<li><input data-name="mon-ngon-tu-tom" id="chkb06" type="checkbox" value="32"><label for="chkb06" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+tom')">Tôm</label></li>
+													<li><input data-name="mon-ngon-tu-muc" id="chkb07" type="checkbox" value="64"><label for="chkb07" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+muc+bach+tuoc')">Mực/Bạch tuộc</label></li>
+													<li><input data-name="hai-san-khac" id="chkb08" type="checkbox" value="128"><label for="chkb08" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+haisan+khac')">Khác</label></li>
+												</ul>
+					</div>
+										<div class="col04">
+						<h3>Rau củ quả</h3>
+						<ul>
+													<li><input data-name="mon-ngon-tu-nam" id="chkb09" type="checkbox" value="256"><label for="chkb09" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+nam')">Nấm</label></li>
+													<li><input data-name="mon-ngon-tu-ca-chua" id="chkb10" type="checkbox" value="512"><label for="chkb10" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+ca+chua')">Cà chua</label></li>
+													<li><input data-name="mon-ngon-tu-ca-rot" id="chkb11" type="checkbox" value="1024"><label for="chkb11" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+ca+rot')">Cà rốt</label></li>
+													<li><input data-name="rau-cu-qua-khac" id="chkb12" type="checkbox" value="2048"><label for="chkb12" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+raucuqua+khac')">Khác</label></li>
+												</ul>
+					</div>
+										<div class="col05">
+						<h3>Khác</h3>
+						<ul>
+													<li><input data-name="mon-ngon-tu-trung" id="chkb13" type="checkbox" value="4096"><label for="chkb13" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+khac+trung')">Trứng</label></li>
+													<li><input data-name="mon-ngon-tu-dau-hu" id="chkb14" type="checkbox" value="8192"><label for="chkb14" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+khac+dau+hu')">Đậu hũ</label></li>
+													<li><input data-name="mon-ngon-tu-banh-mi" id="chkb15" type="checkbox" value="16384"><label for="chkb15" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+khac+banh+mi')">Bánh mì</label></li>
+													<li><input data-name="nguyen-lieu-khac" id="chkb16" type="checkbox" value="32768"><label for="chkb16" onclick="evt('button','click+nguyenlieu','click+TKT+click+TKT+khac+khac')">Khác</label></li>
+												</ul>
+					</div>
+										</div>
+					<div class="food_group_menu cachnau">
+						<div class="col01">
+							<h2>CÁCH NẤU</h2>
+						</div>
+						<div class='col02'>
+										<ul>				
+								<li><input data-name="cac-mon-kho-ngon" id="chkb17" type="checkbox" value="1"><label for="chkb17" onclick="evt('button','click+cachnau','click+TKT+click+TKT+kho')">Kho</label></li>
+										
+								<li><input data-name="cac-mon-om-ngon" id="chkb18" type="checkbox" value="2"><label for="chkb18" onclick="evt('button','click+cachnau','click+TKT+click+TKT+om+rim')">Om/Rim</label></li>
+										
+								<li><input data-name="cach-mon-canh-ngon" id="chkb19" type="checkbox" value="4"><label for="chkb19" onclick="evt('button','click+cachnau','click+TKT+click+TKT+canh+sup')">Canh/Súp</label></li>
+						</ul></div><div class='col03'>
+										<ul>				
+								<li><input data-name="cac-mon-xao-ngon" id="chkb20" type="checkbox" value="8"><label for="chkb20" onclick="evt('button','click+cachnau','click+TKT+click+TKT+xao')">Món Xào</label></li>
+										
+								<li><input data-name="cac-mon-lau-ngon" id="chkb21" type="checkbox" value="16"><label for="chkb21" onclick="evt('button','click+cachnau','click+TKT+click+TKT+lau')">Lẩu</label></li>
+										
+								<li><input data-name="cac-mon-ham-ngon" id="chkb22" type="checkbox" value="32"><label for="chkb22" onclick="evt('button','click+cachnau','click+TKT+click+TKT+ham')">Hầm</label></li>
+						</ul></div><div class='col04'>
+										<ul>				
+								<li><input data-name="cac-mon-goi-ngon" id="chkb23" type="checkbox" value="64"><label for="chkb23" onclick="evt('button','click+cachnau','click+TKT+click+TKT+goi+tron')">Gỏi/Trộn</label></li>
+										
+								<li><input data-name="cac-mon-hap-ngon" id="chkb24" type="checkbox" value="128"><label for="chkb24" onclick="evt('button','click+cachnau','click+TKT+click+TKT+hap+tiem')">Hấp/Tiềm</label></li>
+										
+								<li><input data-name="cac-mon-chien-ngon" id="chkb25" type="checkbox" value="256"><label for="chkb25" onclick="evt('button','click+cachnau','click+TKT+click+TKT+chien')">Chiên</label></li>
+						</ul></div><div class='col05'>
+										<ul>				
+								<li><input data-name="cac-mon-nuong-ngon" id="chkb26" type="checkbox" value="512"><label for="chkb26" onclick="evt('button','click+cachnau','click+TKT+click+TKT+nuong')">Nướng</label></li>
+										
+								<li><input data-name="cac-mon-quay-ngon" id="chkb27" type="checkbox" value="1024"><label for="chkb27" onclick="evt('button','click+cachnau','click+TKT+click+TKT+quay+roti')">Quay/Rôti</label></li>
+										
+								<li><input data-name="cach-nau-khac" id="chkb28" type="checkbox" value="2048"><label for="chkb28" onclick="evt('button','click+cachnau','click+TKT+click+TKT+cachnau+khac')">Khác</label></li>
+													</ul>
+						</div>
+					</div>
+					<div class="food_group_menu last dipnau">
+												<div class="col01">
+							<h2>DỊP NẤU</h2>
+						</div>
+										<div class="col02">
+						<h3>Ngày</h3>
+						<ul>
+													<li><input data-name="thuc-don-hang-ngay" id="chkb29" type="checkbox" value="1"><label for="chkb29" onclick="evt('button','click+dipnau','click+TKT+click+TKT+hang+ngay')">Thực đơn Hàng ngày</label></li>
+													<li><input data-name="mon-ngon-cuoi-tuan" id="chkb30" type="checkbox" value="2"><label for="chkb30" onclick="evt('button','click+dipnau','click+TKT+click+TKT+cuoi+tuan')">Cuối tuần</label></li>
+												</ul>
+					</div>
+										<div class="col03">
+						<h3>Lễ tiệc</h3>
+						<ul>
+													<li><input data-name="mon-ngon-ngay-sinh-nhat" id="chkb31" type="checkbox" value="4"><label for="chkb31" onclick="evt('button','click+dipnau','click+TKT+click+TKT+sinh+nhat')">Sinh nhật</label></li>
+													<li><input data-name="mon-ngon-dip-giang-sinh" id="chkb32" type="checkbox" value="8"><label for="chkb32" onclick="evt('button','click+dipnau','click+TKT+click+TKT+giang+sinh')">Giáng sinh</label></li>
+													<li><input data-name="le-tiec-khac" id="chkb33" type="checkbox" value="16"><label for="chkb33" onclick="evt('button','click+dipnau','click+TKT+click+TKT+letiec+khac')">Khác</label></li>
+												</ul>
+					</div>
+										<div class="col04">
+						<h3>Vùng miền</h3>
+						<ul>
+													<li><input data-name="mon-ngon-mien-bac" id="chkb34" type="checkbox" value="32"><label for="chkb34" onclick="evt('button','click+dipnau','click+TKT+click+TKT+mien+bac')">Bắc</label></li>
+													<li><input data-name="mon-ngon-mien-trung" id="chkb35" type="checkbox" value="64"><label for="chkb35" onclick="evt('button','click+dipnau','click+TKT+click+TKT+mien+trung')">Trung</label></li>
+													<li><input data-name="mon-ngon-mien-nam" id="chkb36" type="checkbox" value="128"><label for="chkb36" onclick="evt('button','click+dipnau','click+TKT+click+TKT+mien+nam')">Nam</label></li>
+												</ul>
+					</div>
+										<div class="col05">
+						<h3>Khác</h3>
+						<ul>
+													<li><input data-name="cac-mon-chay-ngon" id="chkb37" type="checkbox" value="256"><label for="chkb37" onclick="evt('button','click+dipnau','click+TKT+click+TKT+mon+chay')">Món chay</label></li>
+													<li><input data-name="mon-ngon-ngay-tet" id="chkb38" type="checkbox" value="512"><label for="chkb38" onclick="evt('button','click+dipnau','click+TKT+click+TKT+tet')">Tết</label></li>
+													<li><input data-name="dip-nau-khac" id="chkb39" type="checkbox" value="1024"><label for="chkb39" onclick="evt('button','click+dipnau','click+TKT+click+TKT+dipnau+khac')">Khác</label></li>
+												</ul>
+					</div>
+										</div>
+					<!-- <div class="food_shadow">&nbsp;</div> -->
+					<button type="submit" class="search_btn">TÌM KIẾM</button>
+				</div>
+			</div>
+			<div class="login_box col-lg-4 col-md-4 col-sm-12 col-xs-12 col-lg-pull-8 col-md-pull-8">
+							<p class="login_title">
+					THÀNH VIÊN ĐĂNG NHẬP
+<!-- 					<span class="login_social-gg"><a href="javascript:authModule.loginGoogle();"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-side-googleplus.png" alt="google plus"></a></span> -->
+					<span class="login_social-fb"><a href="javascript:authModule.loginFacebook();"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-side-facebook.png" alt="facebook"></a></span>
+				</p>
+				<div class="login_input">
+					<form id="ContactForm2" class="cmxform" method="post" action="">
+						<div class="col01">
+							<input type="text" value="" placeholder="TÀI KHOẢN" id="username" name="username"><br>
+							<label for="fullname3" class="error dang_nhap_admin"></label>
+							<input type="password" value="" placeholder="MẬT KHẨU" id="password" name="password">
+							<label for="pass3" class="error dang_nhap_admin"></label>
+						</div>
+						<div class="col02">
+							<ul>
+								<li><button id="btn-login" type="submit">ĐĂNG NHẬP</button></li>
+								<li><a rel="nofollow" href="https://monngonmoingay.com/dang-ky-thanh-vien">ĐĂNG KÝ</a></li>
+							</ul>
+							<ul>
+								<li class="jqtransform"><label class="lb_remember" for="rememberpass"><input id="rememberpass" type="checkbox" value="">Nhớ mật khẩu</label></li>
+								<li><a rel="nofollow" href="https://monngonmoingay.com/quen-mat-khau">Quên mật khẩu</a></li>
+							</ul>
+						</div>
+					</form>
+				</div>
+						</div>
+		</div>	
+			
+		<h1 class="titleh1">Món ngon mỗi ngày</h1>
+<h2 class="titleh2">Các món ăn hàng ngày</h2>
+
+		<div class="row">
+			<div class="regist_box col-lg-4 col-md-4 col-sm-12 col-xs-12" onclick="evt('button','click+banner+dang+ky+thanh+vien','click+banner+dang+ky+thanh+vien')">
+								
+				<!--Banner-->
+				<div class="banner1" style="position: relative;">
+					<div class="item">
+					<a rel="nofollow" href="https://monngonmoingay.com/uu-dai-hap-dan-cho-thanh-vien.html"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/uudaitv.png" alt="Uu dai thanh vien"></a>
+					</div> 
+					<div class="item" style="position: absolute; top: 0; width: 100%; display:none;">
+				<p class="text01">Đăng ký thành viên<br class="visible-md-block visible-lg-block"><span> Món Ngon Mỗi Ngày</span></p>
+				<p class="text02"><a rel="nofollow" href="https://monngonmoingay.com/dang-ky-thanh-vien"><img class="img-responsive" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-dangky.png" alt="Đăng Ký Ngay"></a></p>
+				<p class="text03"><a href="javascript:;"><img class="img-responsive" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-ebook.png" alt="Thao tác đơn giản để tải e-booklet/Cẩm nang 12 món ngon hàng tháng"></a></p>
+					</div>
+					<div class="item" style="position: absolute; top: 0; width: 100%; display:none;">
+						<a target="_blank" href="http://toasangtainang.monngonmoingay.com/" title="Tỏa sáng tài năng"><img class="img-responsive" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/tstn.png" alt="Tỏa sáng tài năng"></a>
+					</div> 
+				</div>
+				<!--End Banner-->
+				
+							</div>
+			<div class="home_intro col-lg-8 col-md-8 col-sm-12 col-xs-12">
+				<div class="time_bar">
+					<h3>THỰC ĐƠN HÔM NAY</h3>
+					<div class="line"></div>
+				</div>
+								<div class="banner_js">
+					<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+						<!-- Indicators -->
+						<ol class="carousel-indicators">
+													<li data-target="#carousel-example-generic" data-slide-to="0" class=""><span>2</span></li>
+													<li data-target="#carousel-example-generic" data-slide-to="1" class=""><span>3</span></li>
+													<li data-target="#carousel-example-generic" data-slide-to="2" class=""><span>4</span></li>
+													<li data-target="#carousel-example-generic" data-slide-to="3" class=""><span>5</span></li>
+													<li data-target="#carousel-example-generic" data-slide-to="4" class=""><span>6</span></li>
+													<li data-target="#carousel-example-generic" data-slide-to="5" class=""><span>7</span></li>
+													<li data-target="#carousel-example-generic" data-slide-to="6" class="active"><span>CN</span></li>
+												</ol>
+
+						<!-- Wrapper for slides -->
+						<div class="carousel-inner" role="listbox">
+													<div class="item ">
+								<a href="https://monngonmoingay.com/chao-nam-ga-tron-e-tia/">
+									<img src="https://monngonmoingay.com/wp-content/uploads/2019/11/chao-nam-ga-tron-e-tia-800.jpg" class="img-responsive wp-post-image" alt="cháo nấm - gà trộn é tía" srcset="https://monngonmoingay.com/wp-content/uploads/2019/11/chao-nam-ga-tron-e-tia-800.jpg 800w, https://monngonmoingay.com/wp-content/uploads/2019/11/chao-nam-ga-tron-e-tia-800-300x98.jpg 300w, https://monngonmoingay.com/wp-content/uploads/2019/11/chao-nam-ga-tron-e-tia-800-768x252.jpg 768w, https://monngonmoingay.com/wp-content/uploads/2019/11/chao-nam-ga-tron-e-tia-800-600x197.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />									<div class="carousel-caption">Cháo nấm - Gà trộn é tía  <!-- - 25/11/2019 --></div>
+								</a>
+							</div>
+													<div class="item ">
+								<a href="https://monngonmoingay.com/tau-hu-ky-xao-nam/">
+									<img src="https://monngonmoingay.com/wp-content/uploads/2019/11/tau-hu-ky-xao-nam-800.jpg" class="img-responsive wp-post-image" alt="Tàu hũ ky xào nấm" srcset="https://monngonmoingay.com/wp-content/uploads/2019/11/tau-hu-ky-xao-nam-800.jpg 800w, https://monngonmoingay.com/wp-content/uploads/2019/11/tau-hu-ky-xao-nam-800-300x98.jpg 300w, https://monngonmoingay.com/wp-content/uploads/2019/11/tau-hu-ky-xao-nam-800-768x252.jpg 768w, https://monngonmoingay.com/wp-content/uploads/2019/11/tau-hu-ky-xao-nam-800-600x197.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />									<div class="carousel-caption">Tàu hũ ky xào nấm  <!-- - 26/11/2019 --></div>
+								</a>
+							</div>
+													<div class="item ">
+								<a href="https://monngonmoingay.com/gan-bo-xao-thom-ca/">
+									<img src="https://monngonmoingay.com/wp-content/uploads/2019/11/gan-bo-xao-thom-ca-800.jpg" class="img-responsive wp-post-image" alt="gan bò xào thơm cà" srcset="https://monngonmoingay.com/wp-content/uploads/2019/11/gan-bo-xao-thom-ca-800.jpg 800w, https://monngonmoingay.com/wp-content/uploads/2019/11/gan-bo-xao-thom-ca-800-300x98.jpg 300w, https://monngonmoingay.com/wp-content/uploads/2019/11/gan-bo-xao-thom-ca-800-768x252.jpg 768w, https://monngonmoingay.com/wp-content/uploads/2019/11/gan-bo-xao-thom-ca-800-600x197.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />									<div class="carousel-caption">Gan bò xào thơm cà  <!-- - 27/11/2019 --></div>
+								</a>
+							</div>
+													<div class="item ">
+								<a href="https://monngonmoingay.com/chao-nam-ga-tron-e-tia/">
+									<img src="https://monngonmoingay.com/wp-content/uploads/2019/11/chao-nam-ga-tron-e-tia-800.jpg" class="img-responsive wp-post-image" alt="cháo nấm - gà trộn é tía" srcset="https://monngonmoingay.com/wp-content/uploads/2019/11/chao-nam-ga-tron-e-tia-800.jpg 800w, https://monngonmoingay.com/wp-content/uploads/2019/11/chao-nam-ga-tron-e-tia-800-300x98.jpg 300w, https://monngonmoingay.com/wp-content/uploads/2019/11/chao-nam-ga-tron-e-tia-800-768x252.jpg 768w, https://monngonmoingay.com/wp-content/uploads/2019/11/chao-nam-ga-tron-e-tia-800-600x197.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />									<div class="carousel-caption">Cháo nấm - Gà trộn é tía  <!-- - 28/11/2019 --></div>
+								</a>
+							</div>
+													<div class="item ">
+								<a href="https://monngonmoingay.com/canh-ngo-mon-tom-thit/">
+									<img src="https://monngonmoingay.com/wp-content/uploads/2019/11/canh-ngo-mon-tom-thit-800.jpg" class="img-responsive wp-post-image" alt="canh ngó môn tôm thịt" srcset="https://monngonmoingay.com/wp-content/uploads/2019/11/canh-ngo-mon-tom-thit-800.jpg 800w, https://monngonmoingay.com/wp-content/uploads/2019/11/canh-ngo-mon-tom-thit-800-300x98.jpg 300w, https://monngonmoingay.com/wp-content/uploads/2019/11/canh-ngo-mon-tom-thit-800-768x252.jpg 768w, https://monngonmoingay.com/wp-content/uploads/2019/11/canh-ngo-mon-tom-thit-800-600x197.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />									<div class="carousel-caption">Canh ngó môn tôm thịt  <!-- - 29/11/2019 --></div>
+								</a>
+							</div>
+													<div class="item ">
+								<a href="https://monngonmoingay.com/tau-hu-ky-xao-nam/">
+									<img src="https://monngonmoingay.com/wp-content/uploads/2019/11/tau-hu-ky-xao-nam-800.jpg" class="img-responsive wp-post-image" alt="Tàu hũ ky xào nấm" srcset="https://monngonmoingay.com/wp-content/uploads/2019/11/tau-hu-ky-xao-nam-800.jpg 800w, https://monngonmoingay.com/wp-content/uploads/2019/11/tau-hu-ky-xao-nam-800-300x98.jpg 300w, https://monngonmoingay.com/wp-content/uploads/2019/11/tau-hu-ky-xao-nam-800-768x252.jpg 768w, https://monngonmoingay.com/wp-content/uploads/2019/11/tau-hu-ky-xao-nam-800-600x197.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />									<div class="carousel-caption">Tàu hũ ky xào nấm  <!-- - 23/11/2019 --></div>
+								</a>
+							</div>
+													<div class="item active">
+								<a href="https://monngonmoingay.com/gan-bo-xao-thom-ca/">
+									<img src="https://monngonmoingay.com/wp-content/uploads/2019/11/gan-bo-xao-thom-ca-800.jpg" class="img-responsive wp-post-image" alt="gan bò xào thơm cà" srcset="https://monngonmoingay.com/wp-content/uploads/2019/11/gan-bo-xao-thom-ca-800.jpg 800w, https://monngonmoingay.com/wp-content/uploads/2019/11/gan-bo-xao-thom-ca-800-300x98.jpg 300w, https://monngonmoingay.com/wp-content/uploads/2019/11/gan-bo-xao-thom-ca-800-768x252.jpg 768w, https://monngonmoingay.com/wp-content/uploads/2019/11/gan-bo-xao-thom-ca-800-600x197.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />									<div class="carousel-caption">Gan bò xào thơm cà  <!-- - 24/11/2019 --></div>
+								</a>
+							</div>
+												</div>
+
+						<!-- Controls -->
+						<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+							<span class="prev" aria-hidden="true"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/btn-prev.png" alt="prev"></span>
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+							<span class="next" aria-hidden="true"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/btn-next.png" alt="next"></span>
+							<span class="sr-only">Next</span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">						
+			<div class="home_content hl01 col-lg-8 col-md-8 col-sm-12 col-xs-12 col-lg-push-4 col-md-push-4">
+				<div class="food_group food_resources" itemscope itemtype="http://schema.org/ItemList" >
+									<div class="col01">
+						 <div class="none" id="mainEntityOfPage" itemprop="mainEntityOfPage" itemscope></div>
+						<h2 itemprop="name">NGUYÊN LIỆU</h2>
+						<meta itemprop="itemListOrder" content="http://schema.org/ItemListOrderAscending" />
+
+						<img class="visible-md-block visible-lg-block" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-img01.jpg" alt="nguyen lieu">
+					</div>
+										<div class="col02 hl02a hl02a1">
+						<h3>Thịt</h3>
+						<ul>
+						<meta itemprop="numberOfItems" content="4" />										
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-thit-heo" itemprop="url"><span  itemprop="name">Thịt heo</span></a><meta itemprop="position" content="1"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-thit-ga" itemprop="url"><span  itemprop="name">Thịt gà</span></a><meta itemprop="position" content="2"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-thit-bo" itemprop="url"><span  itemprop="name">Thịt bò</span></a><meta itemprop="position" content="3"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/thit-khac" itemprop="url"><span  itemprop="name">Khác</span></a><meta itemprop="position" content="4"/></li>						
+												</ul>
+					</div>
+										<div class="col03 hl02a hl02a1">
+						<h3>Hải sản</h3>
+						<ul>
+						<meta itemprop="numberOfItems" content="4" />										
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-ca" itemprop="url"><span  itemprop="name">Cá</span></a><meta itemprop="position" content="1"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-tom" itemprop="url"><span  itemprop="name">Tôm</span></a><meta itemprop="position" content="2"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-muc" itemprop="url"><span  itemprop="name">Mực/Bạch tuộc</span></a><meta itemprop="position" content="3"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/hai-san-khac" itemprop="url"><span  itemprop="name">Khác</span></a><meta itemprop="position" content="4"/></li>						
+												</ul>
+					</div>
+										<div class="col04 hl02a hl02a2">
+						<h3>Rau củ quả</h3>
+						<ul>
+						<meta itemprop="numberOfItems" content="4" />										
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-nam" itemprop="url"><span  itemprop="name">Nấm</span></a><meta itemprop="position" content="1"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-ca-chua" itemprop="url"><span  itemprop="name">Cà chua</span></a><meta itemprop="position" content="2"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-ca-rot" itemprop="url"><span  itemprop="name">Cà rốt</span></a><meta itemprop="position" content="3"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/rau-cu-qua-khac" itemprop="url"><span  itemprop="name">Khác</span></a><meta itemprop="position" content="4"/></li>						
+												</ul>
+					</div>
+										<div class="col05 hl02a hl02a2">
+						<h3>Khác</h3>
+						<ul>
+						<meta itemprop="numberOfItems" content="4" />										
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-trung" itemprop="url"><span  itemprop="name">Trứng</span></a><meta itemprop="position" content="1"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-dau-hu" itemprop="url"><span  itemprop="name">Đậu hũ</span></a><meta itemprop="position" content="2"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-tu-banh-mi" itemprop="url"><span  itemprop="name">Bánh mì</span></a><meta itemprop="position" content="3"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/nguyen-lieu-khac" itemprop="url"><span  itemprop="name">Khác</span></a><meta itemprop="position" content="4"/></li>						
+												</ul>
+					</div>
+										
+					<div class="food_shadow">&nbsp;</div>
+				</div>
+				<div class="food_group food_howtocook" itemscope itemtype="http://schema.org/ItemList">
+					<div class="col01">
+						<h2 itemprop="name">CÁCH NẤU</h2>
+						<meta itemprop="itemListOrder" content="http://schema.org/ItemListOrderAscending" />
+						<img class="visible-md-block visible-lg-block" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-img02.jpg" alt="cach nau">
+					</div>
+
+					<div class='col02 hl02a hl02a1'>
+									<ul>				
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cac-mon-kho-ngon" itemprop="url"><span  itemprop="name">Kho</span></a><meta itemprop="position" content="1"/></li>						
+									
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cac-mon-om-ngon" itemprop="url"><span  itemprop="name">Om/Rim</span></a><meta itemprop="position" content="2"/></li>						
+									
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cach-mon-canh-ngon" itemprop="url"><span  itemprop="name">Canh/Súp</span></a><meta itemprop="position" content="3"/></li>						
+					</ul></div><div class='col03 hl02a hl02a1'>
+									<ul>				
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cac-mon-xao-ngon" itemprop="url"><span  itemprop="name">Món Xào</span></a><meta itemprop="position" content="4"/></li>						
+									
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cac-mon-lau-ngon" itemprop="url"><span  itemprop="name">Lẩu</span></a><meta itemprop="position" content="5"/></li>						
+									
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cac-mon-ham-ngon" itemprop="url"><span  itemprop="name">Hầm</span></a><meta itemprop="position" content="6"/></li>						
+					</ul></div><div class='col04 hl02a hl02a2'>
+									<ul>				
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cac-mon-goi-ngon" itemprop="url"><span  itemprop="name">Gỏi/Trộn</span></a><meta itemprop="position" content="7"/></li>						
+									
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cac-mon-hap-ngon" itemprop="url"><span  itemprop="name">Hấp/Tiềm</span></a><meta itemprop="position" content="8"/></li>						
+									
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cac-mon-chien-ngon" itemprop="url"><span  itemprop="name">Chiên</span></a><meta itemprop="position" content="9"/></li>						
+					</ul></div><div class='col05 hl02a hl02a2'>
+									<ul>				
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cac-mon-nuong-ngon" itemprop="url"><span  itemprop="name">Nướng</span></a><meta itemprop="position" content="10"/></li>						
+									
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cac-mon-quay-ngon" itemprop="url"><span  itemprop="name">Quay/Rôti</span></a><meta itemprop="position" content="11"/></li>						
+									
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cach-nau-khac" itemprop="url"><span  itemprop="name">Khác</span></a><meta itemprop="position" content="12"/></li>						
+											</ul>
+					</div>
+					<div class="food_shadow">&nbsp;</div>
+				</div>
+				<div class="food_group food_cookoccas"  itemscope itemtype="http://schema.org/ItemList" >
+										<div class="col01">						
+						<h2 itemprop="name">DỊP NẤU</h2>
+						<meta itemprop="itemListOrder" content="http://schema.org/ItemListOrderAscending" />
+						<img class="visible-md-block visible-lg-block" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-img03.jpg" alt="dip nau">
+					</div>
+										<div class="col02 hl02c hl02c1">
+						<h3>Ngày</h3>
+						
+						<ul>
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/thuc-don-hang-ngay" itemprop="url"><span  itemprop="name">Thực đơn Hàng ngày</span></a><meta itemprop="position" content="1"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-cuoi-tuan" itemprop="url"><span  itemprop="name">Cuối tuần</span></a><meta itemprop="position" content="2"/></li>						
+												</ul>
+					</div>
+										<div class="col03 hl02c hl02c1">
+						<h3>Lễ tiệc</h3>
+						
+						<ul>
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-ngay-sinh-nhat" itemprop="url"><span  itemprop="name">Sinh nhật</span></a><meta itemprop="position" content="1"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-dip-giang-sinh" itemprop="url"><span  itemprop="name">Giáng sinh</span></a><meta itemprop="position" content="2"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/le-tiec-khac" itemprop="url"><span  itemprop="name">Khác</span></a><meta itemprop="position" content="3"/></li>						
+												</ul>
+					</div>
+										<div class="col04 hl02c hl02c2">
+						<h3>Vùng miền</h3>
+						
+						<ul>
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-mien-bac" itemprop="url"><span  itemprop="name">Bắc</span></a><meta itemprop="position" content="1"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-mien-trung" itemprop="url"><span  itemprop="name">Trung</span></a><meta itemprop="position" content="2"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-mien-nam" itemprop="url"><span  itemprop="name">Nam</span></a><meta itemprop="position" content="3"/></li>						
+												</ul>
+					</div>
+										<div class="col05 hl02c hl02c2">
+						<h3>Khác</h3>
+						
+						<ul>
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/cac-mon-chay-ngon" itemprop="url"><span  itemprop="name">Món chay</span></a><meta itemprop="position" content="1"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/mon-ngon-ngay-tet" itemprop="url"><span  itemprop="name">Tết</span></a><meta itemprop="position" content="2"/></li>						
+																
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://monngonmoingay.com/dip-nau-khac" itemprop="url"><span  itemprop="name">Khác</span></a><meta itemprop="position" content="3"/></li>						
+												</ul>
+					</div>
+										<div class="food_shadow">&nbsp;</div>
+				</div>
+			</div>
+			<div class="home_side hl01 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-lg-pull-8 col-md-pull-8">
+				<div class="home_side_bg">
+					<div class="home_side_content">
+						<h2 class="video_title"><img class="img-responsive" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/home-video-title.png" alt="Clip món ăn hôm nay"></h2>
+						<div id="video-youtube" class="video">
+							<iframe id="video-iframe" src="https://www.youtube.com/embed/WdXGWEO_vlU" frameborder="0" allowfullscreen></iframe>
+						</div>
+						<h2 class="calendar_title">LỊCH PHÁT SÓNG</h2>
+						<div class="calendar">
+							<div id="datepicker"></div>
+						</div>
+						<!-- <h2 class="calendar_title"><a href="lich-phat-song/">Xem Thêm</a></h2> -->
+						<script type="text/javascript">
+						$(document).ready(function() {
+							var Today = $.datepicker.formatDate('dd/mm/yy/', new Date());
+							$.get('get-lich-phat-song/?ngay='+Today,function(data){
+								var check = data;
+								if(check != 'not_found')
+								{									
+									$('#video-youtube').html('<iframe id="video-iframe" src="https://www.youtube.com/embed/'+data+'?wmode=transparent" frameborder="0" allowfullscreen></iframe>');					
+								}
+							});
+						});
+							
+						</script>
+						<div class="top_food" itemscope itemtype="http://schema.org/ItemList">						
+							<div class="top5"><h2 itemprop="name">TOP 5 MÓN NGON CỦA THÁNG</h2></div>
+							<meta itemprop="itemListOrder" content="http://schema.org/ItemListOrderDescending" />
+							<ul>
+																<li temprop="itemListElement"><span>1</span><a rel="nofollow" href="https://monngonmoingay.com/nui-xao-ga/"><h3>Nui xào gà</h3></a></li>	
+																<li temprop="itemListElement"><span>2</span><a rel="nofollow" href="https://monngonmoingay.com/bun-xao-chay/"><h3>Bún xào chay</h3></a></li>	
+																<li temprop="itemListElement"><span>3</span><a rel="nofollow" href="https://monngonmoingay.com/tom-kho-tau/"><h3>Tôm kho tàu</h3></a></li>	
+																<li temprop="itemListElement"><span>4</span><a rel="nofollow" href="https://monngonmoingay.com/salad-thit-ga-tron-tao-do-2/"><h3>Salad thịt gà trộn táo đỏ</h3></a></li>	
+																<li temprop="itemListElement"><span>5</span><a rel="nofollow" href="https://monngonmoingay.com/salad-doi-quay/"><h3>Salad dồi quẩy</h3></a></li>	
+															
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+	</div>
+			<div class="footer foot_bg">
+			<div class="container-fluid">
+				<div class="container">
+					<div class="row">
+						<ul class="visible-md-block visible-lg-block">
+						<li id="menu-item-502"><a rel='follow' title="Về Món ngon mỗi ngày" href="https://monngonmoingay.com/danh-muc-gioi-thieu/ve-mon-ngon-moi-ngay/">Về MNMN</a></li><li id="menu-item-81"><a rel='follow' href="https://monngonmoingay.com/lich-phat-song/">Lịch phát sóng</a></li><li id="menu-item-503"><a rel='follow' href="https://monngonmoingay.com/danh-muc-gioi-thieu/ve-ajinomoto/">Về Ajinomoto</a></li><li id="menu-item-83"><a rel='follow' href="https://monngonmoingay.com/lien-he/">Liên hệ</a></li><li id="menu-item-84"><a rel='follow' href="https://monngonmoingay.com/hoi-dap/">Hỏi đáp</a></li><li id="menu-item-85"><a rel='follow' href="https://monngonmoingay.com/dieu-khoan-su-dung/">Điều khoản sử dụng</a></li><li id="menu-item-56567"><a rel='follow' href="https://ajimayo.com.vn">Sốt Mayonnaise</a></li>						</ul>
+						<div class="foot_top visible-sm-block visible-xs-block"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/foot-smp.png" alt=""></div>
+						<p>Copyright©2012<span> - </span><br class="visible-sm-block visible-xs-block">Mon Ngon Moi Ngay <img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/foot-logo.png" alt="ajinomoto"><span> . All rights reserved</span></p>
+						<ul class="foot_social row visible-sm-block visible-xs-block">
+							<li><a href="#"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/foot-smp-rss.png" alt="rss"></a></li>
+							<li><a href="#"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/foot-smp-twitter.png" alt="twitter"></a></li>
+							<li><a href="#"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/foot-smp-facebook.png" alt="facebook"></a></li>
+							<li><a href="#"><img src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/foot-smp-flickr.png" alt="flickr"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>
+	<div class="modal popup-notice fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+	  <div class="modal-dialog modal-sm">
+	    <div class="modal-content">
+	     <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        <h4 class="modal-title" id="myModalLabel">Thông báo</h4>
+	      </div>
+	      <div class="modal-body">
+	        chào bạn
+	      </div>
+	    </div>
+	  </div>
+</div>
+<!--
+<div class="popup_container">
+	<div class="popup_bg"></div>
+	<table class="popup_tb">
+		<tr>
+			<td valign="middle">
+				<div class="popup">
+					<div class="popup_close"><img class="img-responsive" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/popup_close.png" /></div>
+					<img class="img-responsive popup_img" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/images/popup_img2.jpg?r=2" />
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+-->
+<!-- facebook -->
+</body>
+	<div id="wpcp-error-message" class="msgmsg-box-wpcp warning-wpcp hideme"><span>error: </span></div>
+	<script>
+	var timeout_result;
+	function show_wpcp_message(smessage)
+	{
+		if (smessage !== "")
+			{
+			var smessage_text = '<span>Alert: </span>'+smessage;
+			document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+			document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp showme";
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, 3000);
+			}
+	}
+	function hide_message()
+	{
+		document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+	}
+	</script>
+		<style type="text/css">
+	#wpcp-error-message {
+	    direction: ltr;
+	    text-align: center;
+	    transition: opacity 900ms ease 0s;
+	    z-index: 99999999;
+	}
+	.hideme {
+    	opacity:0;
+    	visibility: hidden;
+	}
+	.showme {
+    	opacity:1;
+    	visibility: visible;
+	}
+	.msgmsg-box-wpcp {
+		border-radius: 10px;
+		color: #555;
+		font-family: Tahoma;
+		font-size: 11px;
+		margin: 10px;
+		padding: 10px 36px;
+		position: fixed;
+		width: 255px;
+		top: 50%;
+  		left: 50%;
+  		margin-top: -10px;
+  		margin-left: -130px;
+  		-webkit-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		-moz-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+	}
+	.msgmsg-box-wpcp span {
+		font-weight:bold;
+		text-transform:uppercase;
+	}
+	.error-wpcp {		background:#ffecec url('https://monngonmoingay.com/wp-content/plugins/wp-content-copy-protector/images/error.png') no-repeat 10px 50%;
+		border:1px solid #f5aca6;
+	}
+	.success {
+		background:#e9ffd9 url('https://monngonmoingay.com/wp-content/plugins/wp-content-copy-protector/images/success.png') no-repeat 10px 50%;
+		border:1px solid #a6ca8a;
+	}
+	.warning-wpcp {
+		background:#ffecec url('https://monngonmoingay.com/wp-content/plugins/wp-content-copy-protector/images/warning.png') no-repeat 10px 50%;
+		border:1px solid #f5aca6;
+	}
+	.notice {
+		background:#e3f7fc url('https://monngonmoingay.com/wp-content/plugins/wp-content-copy-protector/images/notice.png') no-repeat 10px 50%;
+		border:1px solid #8ed9f6;
+	}
+    </style>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LficYEUAAAAAIN3R7si0z1MFpU7T5aAx9L2hAPy&#038;ver=3.0'></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6LficYEUAAAAAIN3R7si0z1MFpU7T5aAx9L2hAPy',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://monngonmoingay.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://monngonmoingay.com/?s={search_term}",
+    "query-input": "required name=search_term"
+  }
+}
+</script>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){return}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){return}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://monngonmoingay.com/wp-content/plugins/wp-rocket/assets/js/lazyload/12.0/lazyload.min.js"></script><link rel="stylesheet" href="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/fancybox/jquery.fancybox.css" />
+<link rel="stylesheet" href="https://monngonmoingay.com/wp-content/themes/monngonmoingay/css/animate.min.css" />
+<link href="https://monngonmoingay.com/wp-content/themes/monngonmoingay/css/jqtransform.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://monngonmoingay.com/wp-content/themes/monngonmoingay/css/validate.min.css">
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/fancybox/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/detectbrowser.min.js"></script>
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/heightline.min.js"></script>
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/datepicker-vi.min.js"></script>
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/jquery.jqtransform.min.js"></script>
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/home.js"></script>
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/bootbox.min.js"></script>
+<script src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/jquery.validate.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/utils.min.js"></script>
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/search.min.js"></script>
+<!-- <script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/main.min.js"></script> -->
+<script type="text/javascript" src="https://monngonmoingay.com/wp-content/themes/monngonmoingay/js/main.js?r=85284"></script>
+</html>

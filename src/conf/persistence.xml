@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="DishEvaluationPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>datlp.entity.NutritionGroup</class>
+    <class>datlp.entity.NutritionFact</class>
+    <class>datlp.entity.Nutrition</class>
+    <class>datlp.entity.NutritionValue</class>
+    <class>datlp.entity.Dish</class>
+    <class>datlp.entity.MainCategory</class>
+    <class>datlp.entity.SubCategory</class>
+    <class>datlp.entity.Ingredient</class>
+    <class>datlp.entity.DishSubCategory</class>
+    <class>datlp.entity.IngredientValueDictionary</class>
+    <class>datlp.entity.StandardUnitDictionary</class>
+    <class>datlp.entity.Account</class>
+    <class>datlp.entity.BMIConstanst</class>
+    <class>datlp.entity.BMILevelOfWork</class>
+    <class>datlp.entity.BMINeed</class>
+    <exclude-unlisted-classes>false</exclude-unlisted-classes>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:sqlserver://localhost:1433;databaseName=DishEvaluation"/>
+      <property name="javax.persistence.jdbc.user" value="sa"/>
+      <property name="javax.persistence.jdbc.driver" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
+      <property name="javax.persistence.jdbc.password" value="123456"/>
+    </properties>
+  </persistence-unit>
+</persistence>

@@ -1,0 +1,52 @@
+body {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+#container {
+    width: 100%;
+    /*height: 100vh;*/
+    position: relative;
+}
+
+#login {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    border-radius: 50px;
+    width: 30%;
+    position: absolute;
+    top: 10vh;
+    left: 80vh;
+    background-color: rgb(225, 225, 208, 0.8);
+    padding: 20px;
+}
+
+#login h1 {
+    color: #e51b23;
+}
+
+#login form table {
+    width: 100%;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+#btnLogin {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 28px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+}

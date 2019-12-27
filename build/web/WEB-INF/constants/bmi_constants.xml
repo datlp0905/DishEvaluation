@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bmi>
+    <maleWeightAmount>13.397</maleWeightAmount>
+    <maleHeightAmount>4.779</maleHeightAmount>
+    <maleAgeAmount>5.677</maleAgeAmount>
+    <maleEpsilon>88.362</maleEpsilon>
+    
+    <femaleWeightAmount>9.247</femaleWeightAmount>
+    <femaleHeightAmount>3.098</femaleHeightAmount>
+    <femaleAgeAmount>4.330</femaleAgeAmount>
+    <femaleEpsilon>227.593</femaleEpsilon>
+    
+    <levelOfWorks>
+        <level>
+            <levelInfo>Ít hoặc không vận động</levelInfo>
+            <levelValue>1.2</levelValue>
+        </level>
+        <level>
+            <levelInfo>Ít hoặc không vận động</levelInfo>
+            <levelValue>1.2</levelValue>
+        </level>
+    </levelOfWorks>
+    
+    <needs>
+        <need>
+            <needInfo>a</needInfo>
+            <needValue>1</needValue>
+        </need>
+    </needs>
+</bmi>

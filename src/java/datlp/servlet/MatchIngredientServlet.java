@@ -1,0 +1,99 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package datlp.servlet;
+
+import datlp.entity.Ingredient;
+import datlp.service.IngredientService;
+import datlp.service.IngredientServiceImpl;
+import java.io.IOException;
+import java.io.PrintWriter;
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ *
+ * @author DATLPSE62823
+ */
+@WebServlet(name = "MatchIngredientServlet", urlPatterns = {"/MatchIngredientServlet"})
+public class MatchIngredientServlet extends HttpServlet {
+    /**
+     * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
+     * methods.
+     *
+     * @param request servlet request
+     * @param response servlet response
+     * @throws ServletException if a servlet-specific error occurs
+     * @throws IOException if an I/O error occurs
+     */
+    protected void processRequest(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        response.setContentType("text/html;charset=UTF-8");
+        
+        String txtIngredientHashName = request.getParameter("txtIngredientHashName");
+        String txtNutriHashName = request.getParameter("txtNutritionHashName");
+        String txtCustomNutriHash = request.getParameter("mappingNutrition");
+        IngredientService matchingService = new IngredientServiceImpl();
+        Ingredient ingredient;
+        int nutritionHash, ingredientHash;
+        
+        try {
+            ingredientHash = Integer.parseInt(txtIngredientHashName);
+            if(!"-1".equals(txtCustomNutriHash)) {
+                nutritionHash = Integer.parseInt(txtCustomNutriHash);
+            } else {
+                nutritionHash = Integer.parseInt(txtNutriHashName);
+            }
+            ingredient = matchingService.matchingIngredientToNutrition(ingredientHash, nutritionHash);
+        } finally {
+            String urlRewriting = "ProcessServlet?btAction=Normalize Data";
+            response.sendRedirect(urlRewriting);
+        }
+    }
+
+    // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
+    /**
+     * Handles the HTTP <code>GET</code> method.
+     *
+     * @param request servlet request
+     * @param response servlet response
+     * @throws ServletException if a servlet-specific error occurs
+     * @throws IOException if an I/O error occurs
+     */
+    @Override
+    protected void doGet(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        processRequest(request, response);
+    }
+
+    /**
+     * Handles the HTTP <code>POST</code> method.
+     *
+     * @param request servlet request
+     * @param response servlet response
+     * @throws ServletException if a servlet-specific error occurs
+     * @throws IOException if an I/O error occurs
+     */
+    @Override
+    protected void doPost(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        processRequest(request, response);
+    }
+
+    /**
+     * Returns a short description of the servlet.
+     *
+     * @return a String containing servlet description
+     */
+    @Override
+    public String getServletInfo() {
+        return "Short description";
+    }// </editor-fold>
+
+}

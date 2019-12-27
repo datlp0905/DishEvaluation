@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xsd:schema version="1.0"
+           xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="https://monngonmoingay.com/"
+           xmlns="https://monngonmoingay.com/"
+           elementFormDefault="qualified">
+
+    <xsd:element name="dishInfo" type="dishInfoType"/>
+    
+    <xsd:complexType name="dishInfoType">
+        <xsd:sequence>
+            <xsd:element name="mainCategory" type="mainCategoryType" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    
+    <xsd:complexType name="mainCategoryType">
+        <xsd:sequence>
+            <xsd:element name="name" type="xsd:string"/>
+            <xsd:element name="subCategory" type="subCategoryType" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    
+    <xsd:complexType name="subCategoryType">
+        <xsd:sequence>
+            <xsd:element name="name" type="xsd:string"/>
+            <xsd:element name="dish" type="DishType" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    
+    <xsd:complexType name="DishType">
+        <xsd:sequence>
+            <xsd:element name="name" type="xsd:string"/>
+            <xsd:element name="description" type="xsd:string"/>
+            <xsd:element name="level" type="xsd:string"/>
+            <xsd:element name="recipeYield" type="xsd:string"/>
+            <xsd:element name="cookedTime" type="xsd:string"/>
+            <xsd:element name="img" type="xsd:string"/>
+            <xsd:element name="link" type="xsd:string"/>
+            <xsd:element name="ingredient" type="ingredientType" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    
+    <xsd:complexType name="ingredientType">
+        <xsd:sequence>
+            <xsd:element name="name" type="xsd:string"/>
+            <xsd:element name="amount" type="xsd:string"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>

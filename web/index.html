@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+
+    <head>
+        <title>Trang chủ - DishEvaluation</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="resources/js/index.js"></script>
+        <link rel="stylesheet" href="resources/css/index.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body onload="initLoad();">
+        <div class="topnav">
+            <a class="active" href="index.html">
+                <div id="logo">
+                    <img src="resources/img/logo.png" alt="Logo" class="logo"/>
+                </div>
+            </a>
+            <a href="dish-suggestion.html">Gợi ý món ăn theo nhu cầu dinh dưỡng</a>
+            <div class="search-container">
+                <input type="text" placeholder="Tìm kiếm.." 
+                       name="txtSearch" id="txtSearch" 
+                       onkeyup="catchEnterKey(event)">
+                <button onclick="search()" id="btnSearch"><i class="fa fa-search"></i></button>
+            </div>
+        </div>
+        <div class="main-container">
+            <div id="div-advance-search">
+                <div>
+                    <div id="txt-advance-search">
+                        <a onclick="showAdvanceSearch()" href="#" style="float: right">Tìm kiếm theo nguyên liệu</a>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div>
+                    <div id="category-search" style="display: none">
+                        <!--                        <div class="category">
+                                                    <lable class="category-name">Thịt</lable>
+                                                    <input type="checkbox" name="cbCategory"/><label>Thịt heo</label>
+                                                </div>-->
+                    </div>
+                    <button id="btn-advance-search" onclick="searchByCategory()">Tìm kiếm</button>
+                    <div class="clear"></div>
+                </div>
+
+                <div class="clear"></div>
+            </div>
+            <div id="dishes">
+                <div id="loading" style="display: block; text-align: center; margin-top: 100px; color: #e51b23">
+                    <img src="resources/img/logo.png" alt="Logo"/><br/>
+                    <h2>Loading..</h2>
+                </div>
+                <!--                <a href="#">
+                                    <div class="dish">
+                                        <div class="dish-img">
+                                            <img src="resources/img/food.jpg" alt="Dish"/>
+                                        </div>
+                                        <div class="dish-name">
+                                            Xôi chiên giòn rụm luôn nha siêu dài nè
+                                        </div>
+                                        <div class="dish-energy">1000 calo</div>
+                                        <div class="dish-level">Dễ</div>
+                                        <div class="dish-cook-time">40 phút</div>
+                                    </div>
+                                </a>-->
+                <div class="clear"></div>
+            </div>
+        </div>
+
+        <!-- The Modal -->
+        <div id="dish-detail" class="modal">
+
+            <!-- Modal content -->
+            <div class="detail-content">
+                <span class="close">&times;</span>
+                <div id="detail-img-container">
+                    <div id="detail-img">
+                        <img src="resources/img/food.jpg" alt="Test"/>
+                    </div>
+                    <div id="detail-icon">
+                        <img src="resources/img/chef.svg" class="dish-icon" alt="level"/><span></span>
+                        <img src="resources/img/multiple-users-silhouette.svg" class="dish-icon" alt="level"/><span></span>
+                        <img src="resources/img/clock.svg" class="dish-icon" alt="level"/><span></span>
+                    </div>
+                </div>
+                <div id="detail-info">
+                    <div id="detail-name">
+                        <h3></h3>
+                    </div>
+                    <div id="detail-description"></div>
+
+                    <div id="detail-ingredient">
+                        <h4>Nguyên liệu</h4>
+                        <table id="table-ingredient">
+
+                        </table>
+                        <br/>
+                        <a href="#" id="detail-link">Tham khảo cách làm tại đây</a>
+                    </div>
+                </div>
+                <div id="detail-nutrition">
+                    <h3>Thông tin dinh dưỡng</h3>
+                    <!--<h4>Năng lượng <span id="detail-energy">1000</span> calo</h4>-->
+                    <table id="table-nutrition">
+<!--                        <tr>
+                            <td>Canxi</td>
+                            <td>100g</td>
+                        </tr>
+                        <tr>
+                            <td>Canxi</td>
+                            <td>100g</td>
+                        </tr>
+                        <tr>
+                            <td>Canxi</td>
+                            <td>100g</td>
+                        </tr>-->
+                    </table>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+        </div>
+        <script src="resources/js/index-dish-detail.js"></script>
+    </body>
+
+</html>
